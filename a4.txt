@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 Astrounautas da NASA entram em combate contra um buraco de minhocas para livrar a terra de um aquecimento global.
+=======
+Astrounautas lutam pela sobrevivência em um buraco negro para salvar Terra do aquecimento Global.
+
+>>>>>>> 93d751de6db9261a90d99ad547a6b836085f26b8
